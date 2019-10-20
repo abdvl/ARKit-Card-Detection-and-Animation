@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "IMG_9471.jpg"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "width" : 2.5,
+    "unit" : "inches"
+  }
+}
