@@ -6,7 +6,8 @@ Simple iOS project(swift + ARKit2) which detects the two cards and overlay a spi
 ## Original tutorials video 
 https://www.youtube.com/watch?v=VmPHE8M2GZI&t=2405s
 
-## Cards
+## Images (cards) will be tracked
 
-### Card1
-[](./CarcDetection/CarcDetection/Assets.xcassets/cards.arresourcegroup/cao.arreferenceimage/IMG_0596.jpg)
+![Card1](https://github.com/abdvl/ARKit-Card-Detection-and-Animation/blob/master/CarcDetection/CarcDetection/Assets.xcassets/cards.arresourcegroup/cao.arreferenceimage/IMG_0596.jpg)
+
+![Card2](https://github.com/abdvl/ARKit-Card-Detection-and-Animation/blob/master/CarcDetection/CarcDetection/Assets.xcassets/cards.arresourcegroup/huang.arreferenceimage/IMG_9471.jpg)
