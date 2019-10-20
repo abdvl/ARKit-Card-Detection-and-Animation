@@ -3,7 +3,7 @@
 
 Simple iOS project(swift + ARKit2) which detects the two cards and overlay a spining 3D object to it. And when two cards are phscially close to each other (< 10cm), the two 3D objects will have an animation.
 
-## Original tutorials video 
+## Original tutorial video 
 https://www.youtube.com/watch?v=VmPHE8M2GZI&t=2405s
 
 ## Images (cards) will be tracked
